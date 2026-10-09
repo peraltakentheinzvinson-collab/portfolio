@@ -28,7 +28,7 @@
           </p>
           <div>
             <a
-                href="/cv.pdf"
+                href="/cvkent.pdf"
                 download="Kent_Heinz_Vinson_Peralta_CV.pdf"
                 class="inline-block bg-[#bcf078] hover:bg-[#aae860] text-slate-900 font-semibold px-6 py-3 rounded-full text-sm transition shadow-sm"
             >
@@ -40,9 +40,7 @@
         <div class="flex justify-center">
           <!-- Profile image placeholder box -->
           <div class="w-64 h-64 sm:w-72 sm:h-72 bg-[#d7f7be] rounded-3xl flex items-center justify-center border-4 border-white shadow-md overflow-hidden">
-            <svg class="w-32 h-32 text-slate-400" fill="currentColor" viewBox="0 0 24 24">
-              <path d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"/>
-            </svg>
+            <img src="/kent.jpg" />
           </div>
         </div>
       </section>
@@ -140,7 +138,7 @@
         <div class="space-y-2">
           <span class="text-xs uppercase font-bold tracking-wider text-slate-400 block">Socials</span>
           <a
-              href="https://www.linkedin.com/in/kent-heinz-vinson-u-peralta"
+              href="https://www.linkedin.com/in/kent-heinz-vinson-peralta-733003313"
               target="_blank"
               rel="noopener"
               class="inline-flex items-center space-x-2 text-sm font-medium text-slate-700 hover:text-black bg-slate-50 border border-slate-200 px-4 py-2 rounded-xl transition"
